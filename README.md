@@ -30,7 +30,8 @@ We also utilized multiple open-source software packages, as detailed below:
 
 ## Dataset
 ### Participants 
-- 10 healthy controls
+- Two *post-mortem* human brains
+- Ten healthy living controls
 
 ### Imaging Data
 - BigBrain
