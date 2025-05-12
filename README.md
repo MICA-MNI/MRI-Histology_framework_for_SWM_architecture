@@ -4,7 +4,13 @@
 
 > *[Youngeun Hwang](mailto:youngeun.hwang2@mail.mcgill.ca), Raul Rodriguez-Cruces, Jordan DeKraker, Donna Gift Cabalo, Ilana R Leppert, Risavarshni Thevakumaran, Christine L. Tardif, David Rudko, Pierre-Louis Bazin, Andrea Bernasconi, Neda Bernasconi, Luis Concha, Alan C. Evans, [Boris C. Bernhardt](mailto:boris.bernhardt@mcgill.ca). (2025). A unified imaging-histology framework for superficial white matter architecture studies in the human brain. ...*
 
-**DOI:** [TBD]().
+**DOI:** https://doi.org/10.1101/2025.05.09.653169.
+
+**Preprint:** available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.09.653169v1)
+
+**Documentation:** available at [TBD]()
+
+**Data repository:** available at [OSF](https://osf.io/e6f7d/)
 
 **Keywords:** Superficial white matter, Histology, Magnetic resonance imaging (MRI), Ultra-high field MRI, 7 Tesla MRI, Quantitative MRI
 
