@@ -4,7 +4,13 @@
 
 > *[Youngeun Hwang](mailto:youngeun.hwang2@mail.mcgill.ca), Raul Rodriguez-Cruces, Jordan DeKraker, Donna Gift Cabalo, Ilana R Leppert, Risavarshni Thevakumaran, Christine L. Tardif, David Rudko, Pierre-Louis Bazin, Andrea Bernasconi, Neda Bernasconi, Luis Concha, Alan C. Evans, [Boris C. Bernhardt](mailto:boris.bernhardt@mcgill.ca). (2025). A unified imaging-histology framework for superficial white matter architecture studies in the human brain. ...*
 
-**DOI:** [TBD]().
+**DOI:** https://doi.org/10.1101/2025.05.09.653169.
+
+**Preprint:** available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.09.653169v1)
+
+**Documentation:** available at [TBD]()
+
+**Data repository:** available at [OSF](https://osf.io/e6f7d/)
 
 **Keywords:** Superficial white matter, Histology, Magnetic resonance imaging (MRI), Ultra-high field MRI, 7 Tesla MRI, Quantitative MRI
 
@@ -33,8 +39,10 @@ This repository contains the code and analysis notebooks for studying superficia
 ## Repository content
 | Directories   | Description                                                                                                                                                                                                                                                                             |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [`./scripts`]()      | `bash`, and `python` scripts for processing, and perform the analysis to reproduce the findings.                                                                                                                                                        |
-| [`./data`]() | Data necessary to run the code.                                                                                                                                                                                                                      |
+| [`./scripts`]()      | `bash`, and `python` scripts for processing to reproduce the findings.                                                                                                                                                        |
+| [`./notebooks`]() | `jupyter notebook` scripts used for the analysis to reproduce the findings.                                                                                                                                                                                                                      |
+| [`./figures`]() | figures presented in this paper.                                                                                                                                                                                                                      |
+
 
 ## Abstract
 The superficial white matter (SWM), immediately beneath the cortical mantle, is thought to play a major role in cortico-cortical connectivity as well as large-scale brain function. Yet, this compartment remains rarely studied due to its complex structural organization. Our objectives were to develop and disseminate  a robust computational framework to study SWM organization based on 3D histology and high-field 7T MRI. Using data from the BigBrain and Ahead histology initiatives, we first interrogated variations in cell staining intensities across different cortical regions and different SWM depths. These findings were then translated to *in-vivo* 7T quantitative myelin-sensitive MRI, including T1 relaxometry (T1 map) and magnetization transfer saturation (MTsat). As indicated by the statistical moments of the SWM intensity profiles, the first 2 mm below the cortico-subcortical boundary were characterized by high structural complexity. We quantified SWM microstructural variation using a dimensionality reduction method and examined its relationship with brain geometry, as well as structural and functional connectivity. Our results showed correlations between brain curvature and SWM microstructural gradients derived from both myelin-sensitive MRI, and between functional connectivity and SWM microstructural gradients derived from T1-maps . This study provides novel insights into the organization of SWM in the human brain and underscores the potential of SWM mapping to advance fundamental and applied neuroscience research.
