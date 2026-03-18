@@ -2,11 +2,11 @@
 
 **Cite:**
 
-> *[Youngeun Hwang](mailto:youngeun.hwang2@mail.mcgill.ca), Raul Rodriguez-Cruces, Jordan DeKraker, Donna Gift Cabalo, Ilana R Leppert, Risavarshni Thevakumaran, Christine L. Tardif, David Rudko, Pierre-Louis Bazin, Andrea Bernasconi, Neda Bernasconi, Luis Concha, Alan C. Evans, [Boris C. Bernhardt](mailto:boris.bernhardt@mcgill.ca). (2025). A unified imaging-histology framework for superficial white matter architecture studies in the human brain. ...*
+> *[Hwang, Y.](mailto:youngeun.hwang2@mail.mcgill.ca), Rodriguez-Cruces, R., DeKraker, J., Cabalo, D. G., Leppert, I. R., Thevakumaran, R., Tardif, C. L., Rudko, D. A., Paquola, C., Bazin, P. L., Bernasconi, A., Bernasconi, N., Concha, L., Evans, A. C., & [Bernhardt, B. C.](mailto:boris.bernhardt@mcgill.ca) (2026). Microstructural profiles of the human superficial white matter and their associations to cortical geometry and connectivity. PLoS biology, 24(1), e3003629.*
 
-**DOI:** https://doi.org/10.1101/2025.05.09.653169.
+**DOI:** https://doi.org/10.1371/journal.pbio.3003629
 
-**Preprint:** available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.09.653169v1)
+**Paper:** available at [PLOS Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003629)
 
 **Documentation:** available at [TBD]()
 
